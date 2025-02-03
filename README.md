@@ -2,6 +2,7 @@
 <h3>¡Hola! Soy Jorge Enrique Fernandez , un apasionado desarrollador de software con experiencia en diversas tecnologías y siempre dispuesto a aprender nuevas herramientas.</h3>
 
 
+![banner ](https://github.com/user-attachments/assets/e68e3d00-9939-481e-83c7-2942db2a8b2d)
 
 
 <div style="display: flex; align-items: flex-start; width: 100%;">
