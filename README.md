@@ -54,7 +54,7 @@ Siempre estoy abierto/a a colaborar en nuevos proyectos o discutir ideas interes
 
 
 
-🐦 Twitter:   	<br>
-📁 LinkedIn:  	<br>
-🖼️ Instagram: 	<br>
+
+
+
 
