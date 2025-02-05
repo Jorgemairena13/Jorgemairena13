@@ -1,5 +1,5 @@
 <h1>👨‍💻 Bienvenido al Perfil de Jorgemairena13!</h1>
-<h3>¡Hola! Soy Jorge Enrique Fernandez , un apasionado desarrollador de software con experiencia en diversas tecnologías y siempre dispuesto a aprender nuevas herramientas.</h3>
+<h3>¡Hola! Soy Jorge Enrique Fernandez , un apasionado desarrollador de software y siempre dispuesto a aprender nuevas herramientas.</h3>
 
 ![Black   White Modern Personal Branding Youtube Banner](https://github.com/user-attachments/assets/87b42785-247e-44b8-b0a9-cc8a6c5ac09c)
 
