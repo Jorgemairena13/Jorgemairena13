@@ -53,9 +53,8 @@ Estoy en mi primer año de **DAW** y aprendiendo a aplicar mis conocimientos en 
 
 ## 🔥 Proyectos Destacados  
 
-📌 Aquí iré poniendo los proyectos que vaya creando.
+📌 Este proyecto es una tienda en línea de componentes electrónicos desarrollada en Python. Puedes encontrar el código fuente completo en el repositorio de [GitHub](https://github.com/Jorgemairena13/Tienda-de-componentes).
 
----
 
 ## 🤝 Colaboraciones  
 
