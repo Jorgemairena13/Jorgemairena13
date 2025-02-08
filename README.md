@@ -1,56 +1,65 @@
-<h1>👨‍💻 Bienvenido al Perfil de Jorgemairena13!</h1>
-<h3>¡Hola! Soy Jorge Enrique Fernandez , un apasionado desarrollador de software y siempre dispuesto a aprender nuevas herramientas.</h3>
+# 👨‍💻 Bienvenido al Perfil de Jorgemairena13!
+## ¡Hola! Soy Jorge Enrique Fernandez 👋
 
-![Black   White Modern Personal Branding Youtube Banner](https://github.com/user-attachments/assets/87b42785-247e-44b8-b0a9-cc8a6c5ac09c)
+Soy un estudiante de **Desarrollo de Aplicaciones Web (DAW)** con pasión por la programación y la tecnología. Siempre estoy explorando nuevas herramientas y mejorando mis habilidades. 🚀  
 
+![Banner Personal](https://github.com/user-attachments/assets/87b42785-247e-44b8-b0a9-cc8a6c5ac09c)  
 
+---
 
+## 🚀 Sobre Mí  
 
-<div style="display: flex; align-items: flex-start; width: 100%;">
-    <div style="flex-grow: 1; padding-right: 20px;">
-🚀 Sobre mí<br>
-💻 Me encanta crear soluciones innovadoras utilizando tecnología. <br>
-🌱 Actualmente estoy aprendiendo sobre Python, CSS.<br>
-🎓 Tengo experiencia en Python, HTML, CSS .<br>
-🌐 Puedes ver más sobre mis proyectos en mi sitio web: Poner cuando cree el sitio web.<br>
-📫 Contáctame por correo electrónico: jorge.enrique.fernandez o en LinkedIn: .<br>
-</div>
+- 💻 Me encanta crear soluciones innovadoras utilizando tecnología.  
+- 🌱 Actualmente estoy aprendiendo **Python, CSS y desarrollo web**.  
+- 🎓 Tengo experiencia en **Python, HTML, CSS**.  
+- 🌐 Próximamente lanzaré mi **sitio web personal**.  
+- 📫 Contáctame en **[LinkedIn](https://www.linkedin.com/in/jorge-enrique-fernandez/)** o por correo: ✉️ **jorge.enrique.fernandez14@gmail.com**.  
 
+---
 
+## 🛠️ Habilidades Técnicas  
 
-
-
-## 🛠️ Habilidades Técnicas
-
-### Lenguajes de Programación:
+### 📌 Lenguajes de Programación  
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 
-### Frameworks y Herramientas:
+### ⚙️ Frameworks y Herramientas  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+### 🗄️ Bases de Datos  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
 
-### Bases de Datos:
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+---
 
-## 💡 Lo que estoy aprendiendo ahora:
-Actualmente, estoy estudiando el grado superior de DAW y explorando cómo aplicarlo en proyectos del mundo real. ¡Siempre hay algo nuevo por aprender!
+## 📖 Actualmente aprendiendo  
+Estoy en mi primer año de **DAW** y aprendiendo a aplicar mis conocimientos en proyectos del mundo real. ¡Siempre hay algo nuevo por descubrir! 🚀  
 
+---
 
-📊 Estadísticas de GitHub <br><br>
+## 📊 Estadísticas de GitHub  
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jorgemairena13&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jorgemairena13&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jorgemairena13&theme=radical" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jorgemairena13&theme=radical" alt="Racha de contribuciones" />
 </p>
 
-🔥 Proyectos Destacados
+---
 
-🤝 Colaboraciones
-Siempre estoy abierto/a a colaborar en nuevos proyectos o discutir ideas interesantes. No dudes en contactarme si tienes alguna propuesta o simplemente quieres charlar sobre tecnología.
+## 🔥 Proyectos Destacados  
+
+📌 Aquí iré poniendo los proyectos que vaya creando.
+
+---
+
+## 🤝 Colaboraciones  
+
+Siempre estoy abierto a colaborar en proyectos interesantes. Si tienes una idea o te gustaría trabajar conmigo, ¡hablemos!  
 
 
 
