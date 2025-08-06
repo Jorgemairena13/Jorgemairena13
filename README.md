@@ -9,11 +9,12 @@ Soy un estudiante de **Desarrollo de Aplicaciones Web (DAW)** con pasión por la
 
 ## 🚀 Sobre Mí  
 
-- 💻 Me encanta crear soluciones innovadoras utilizando tecnología.  
-- 🌱 Actualmente estoy aprendiendo **Python, CSS y desarrollo web**.  
-- 🎓 Tengo experiencia en **Python, HTML, CSS**.  
+- 💻 Me apasiona crear soluciones innovadoras mediante la tecnología.
+- 🌱 Actualmente estoy aprendiendo **Php, CSS y desarrollo web en general**.  
+- 🎓 Tengo experiencia con Python, HTML, CSS y PHP.
 - 🌐 Próximamente lanzaré mi **sitio web personal**.  
-- 📫 Contáctame en **[LinkedIn](https://www.linkedin.com/in/jorge-enrique-fernandez/)** o por correo: ✉️ **jorge.enrique.fernandez14@gmail.com**.  
+- 📫 Contáctame en **[LinkedIn](https://www.linkedin.com/in/jorge-enri1234/)** 📫 Email: [jorge.enrique.fernandez14@gmail.com](mailto:jorge.enrique.fernandez14@gmail.com)
+ 
 
 ---
 
@@ -23,7 +24,7 @@ Soy un estudiante de **Desarrollo de Aplicaciones Web (DAW)** con pasión por la
 ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![Php](https://img.shields.io/badge/PHP-%23777BB4?style=flat-square&logo=php&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 
 ### ⚙️ Frameworks y Herramientas  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
@@ -34,8 +35,8 @@ Soy un estudiante de **Desarrollo de Aplicaciones Web (DAW)** con pasión por la
 
 ---
 
-## 📖 Actualmente aprendiendo  
-Estoy en mi primer año de **DAW** y aprendiendo a aplicar mis conocimientos en proyectos del mundo real. ¡Siempre hay algo nuevo por descubrir! 🚀  
+## 📖 En formación continua  
+Actualmente curso el segundo año del ciclo de **Desarrollo de Aplicaciones Web (DAW)**, aplicando mis conocimientos en proyectos reales mientras aprendo tecnologías como **PHP**, **CSS** y frameworks modernos.🚀  
 
 ---
 
@@ -53,7 +54,18 @@ Estoy en mi primer año de **DAW** y aprendiendo a aplicar mis conocimientos en 
 
 ## 🔥 Proyectos Destacados  
 
-📌 Este proyecto es una tienda en línea de componentes electrónicos desarrollada en Python. Puedes encontrar el código fuente completo en el repositorio de [GitHub](https://github.com/Jorgemairena13/Tienda-de-componentes).
+### 📌 Blog de Videojuegos  
+Plataforma desarrollada en **PHP** que permite publicar artículos, reseñas y noticias sobre videojuegos. Los usuarios pueden registrarse, crear entradas, editar su perfil y buscar contenido.  
+🔗 [Ver Proyecto](https://blogvideojuegos.xo.je)
+
+
+📌 Este proyecto es una tienda de componentes electrónicos desarrollada en Python. Puedes encontrar el código fuente completo en el repositorio de [GitHub](https://github.com/Jorgemairena13/Tienda-de-componentes).
+
+
+## 📚 Formación Complementaria  
+- Máster en PHP, Laravel, Symfony, WordPress – Víctor Robles Web (Udemy)  
+- Curso "Universidad JavaScript" – Udemy  
+
 
 
 ## 🤝 Colaboraciones  
