@@ -12,7 +12,7 @@ Soy un estudiante de **Desarrollo de Aplicaciones Web (DAW)** con pasión por la
 - 💻 Me apasiona crear soluciones innovadoras mediante la tecnología.
 - 🌱 Actualmente estoy aprendiendo **Php, CSS y desarrollo web en general**.  
 - 🎓 Tengo experiencia con Python, HTML, CSS y PHP.
-- 🌐 Próximamente lanzaré mi **sitio web personal**.  
+- 🌐 Mi porfolio porfolio-xi-livid.vercel.app.  
 - 📫 Contáctame en **[LinkedIn](https://www.linkedin.com/in/jorge-enri1234/)** 📫 Email: [jorge.enrique.fernandez14@gmail.com](mailto:jorge.enrique.fernandez14@gmail.com)
  
 
